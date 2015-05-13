@@ -2,7 +2,7 @@
 ##test1
 ###test2
 
-Sample
+Sample.txt
 
 *1
 *2
